@@ -1,0 +1,39 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  overflow: hidden;
+  margin: 0px;
+  padding: 0;
+}
+header, footer{
+  
+  width: 100%;
+  overflow: hidden;
+  background-color: aquamarine;
+  color: black;
+  padding: 10px;
+  text-align: center;
+}
+.pavan{
+  height: 500px;
+  display: flex;
+}
+.pavan img{
+  max-width: 300px;
+  max-height:300px ;
+
+}
+aside{
+  width: 10%;
+  padding: 20px;
+  background-color: gold;
+}
+.swetha{
+  background-color: gray;
+  padding: 20px;
+}
+ a{
+  text-decoration: none;
+  padding: 20px;
+}
